@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepLearning_ImageClassification", "DeepLearning_ImageClassification\DeepLearning_ImageClassification.csproj", "{D2C0FD50-CB21-476F-9A47-23F98973CBED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2C0FD50-CB21-476F-9A47-23F98973CBED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2C0FD50-CB21-476F-9A47-23F98973CBED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2C0FD50-CB21-476F-9A47-23F98973CBED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2C0FD50-CB21-476F-9A47-23F98973CBED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44FCC420-7EE3-4735-BF90-A506ABEE36EB}
+	EndGlobalSection
+EndGlobal
